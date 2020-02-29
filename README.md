@@ -1,3 +1,6 @@
+This repository contains a tutorial for introduction to docker. A couple of simple images
+will be used to understand how to build, run and manage your application with containers.
+
 Install Docker:
 
 # https://docs.docker.com/install/
